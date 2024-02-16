@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoussaidiAdel
-email : Boussaidi0adel@gmail.com or @instagram : Boussaidi.adel
+email : Boussaidi0adel@gmail.com or @Linkedin : boussaidi-adel
 
 <!---
 BoussaidiAdel/BoussaidiAdel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
