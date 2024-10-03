@@ -1,4 +1,3 @@
-readme_content = """
 # Hi there 👋 I'm **Adel Boussaidi** 🧑‍💻  
 **Software Engineering Student** | Passionate about technology and innovation
 
